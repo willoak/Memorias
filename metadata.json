@@ -1,0 +1,7 @@
+{
+  "name": "Memória - Diário com IA",
+  "description": "Um aplicativo de diário imersivo que usa IA para capturar o clima, humor, localização e a essência visual de suas memórias.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
